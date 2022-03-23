@@ -20,6 +20,7 @@ func main() {
 
 	// make a random choice
 	res := choiceMaker(choices)
+
 	// pick up the choice and don't worry, be happy.
 	fmt.Println(res)
 }
