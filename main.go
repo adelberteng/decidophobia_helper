@@ -16,7 +16,7 @@ func choiceMaker(choices []string) string {
 
 func main() {
 	// example data
-	choices := []string{"blue", "orange", "white"}
+	choices := []string{"red", "blue", "green", "yellow"}
 
 	// make a random choice
 	res := choiceMaker(choices)
